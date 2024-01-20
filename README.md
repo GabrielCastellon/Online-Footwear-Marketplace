@@ -12,7 +12,7 @@ In the project directory, you can run:
 ### `yarn dev`
 
 For any missing dependencies, run:
-### 'npm update'
+### `npm update`
 
 Server starts on port 3000.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
