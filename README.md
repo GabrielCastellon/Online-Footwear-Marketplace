@@ -2,7 +2,6 @@
 
 This project was created using full MERN stack
 ShoeLocker is a website that allows user to create their own virtual shops inside to sell to other users.
-https://web-group-shoesstore.onrender.com/
 
 ## Available Scripts
 
